@@ -33,28 +33,28 @@ O repositório está organizado da seguinte forma:
 
 
 Links dos softwares necessários:<br>
-<b>1º Ano - 2º Semestre</b>
+<b>1º Ano - 2º Semestre</b><br>
 `Algoritmia e Programação` https://www.codeblocks.org/<br>
 `Introdução às Tecnologias Web` https://code.visualstudio.com/<br>
 `Laboratórios de Informática` https://code.visualstudio.com/<br>
 `Metodologias e Gestão de Projetos` https://trello.com/<br>
 
 
-<b>1º Ano - 2º Semestre</b>
+<b>1º Ano - 2º Semestre</b><br>
 `Programação Orientada a Objetos` https://netbeans.apache.org/front/main/index.html | https://www.jetbrains.com/idea/<br>
 `Sistemas Operativos` https://www.python.org/<br>
 `Tecnologias de Redes de Computadores` https://www.gns3.com/ | https://www.wireshark.org/<br>
 `Laboratórios de Programação` https://www.jetbrains.com/idea/<br>
 
 
-<b>2º Ano - 1º Semestre</b>
+<b>2º Ano - 1º Semestre</b><br>
 `Estruturas de Dados e Programação` https://netbeans.apache.org/front/main/index.html | https://www.jetbrains.com/idea/<br>
 `Interação Humano-computador` https://www.figma.com/ | https://trello.com/<br>
 `Engenharia de Software` https://www.visual-paradigm.com/<br>
 `Sistemas de Bases de Dados` https://www.mysql.com/<br>
 
 
-<b>2º Ano - 2º Semestre</b>
+<b>2º Ano - 2º Semestre</b><br>
 `Desenvolvimento de Aplicações para Dispositivos Móveis` https://developer.android.com/ | https://www.pgadmin.org/<br>
 `Sistemas de Informação Geográfica` https://qgis.org/en/site/ | https://www.enterprisedb.com/downloads/postgres-postgresql-downloads | https://filezilla-project.org/<br>
 `Programação e Tecnologias Web` https://www.visual-paradigm.com/<br>
